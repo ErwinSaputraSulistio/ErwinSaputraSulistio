@@ -9,7 +9,8 @@
     Learning programming for about half a year, currently studying at Arkademy."
 
 ### 📚 Currently I've been learning about (Web Devs) :  
-![HTML CSS JS Logo](https://user-images.githubusercontent.com/77045083/110452347-ad6fe100-80f7-11eb-94ab-c86a935c6e1f.png)  
+![HTML CSS JS Logo](https://user-images.githubusercontent.com/77045083/110452347-ad6fe100-80f7-11eb-94ab-c86a935c6e1f.png)
+![ReactJS](https://user-images.githubusercontent.com/77045083/118378083-645a7280-b5fb-11eb-84b3-92d0b0e09e57.png)   
 
 ![Node Logo](https://user-images.githubusercontent.com/77045083/110448204-8dd6b980-80f3-11eb-89b6-13397ed8a31e.png)
 ![Express Logo](https://user-images.githubusercontent.com/77045083/111209202-52118780-85fe-11eb-8dc5-9394b3f0a9e3.png)
